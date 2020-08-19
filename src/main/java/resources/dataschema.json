@@ -1,0 +1,33 @@
+{
+  "events": {
+    "order_received": {
+      "properties": {
+        "id": "1",
+        "name": "Order received",
+        "date": "01.06.2020",
+        "item": "Bicycle"
+      }
+    },
+    "product_produced": {
+      "properties": {
+        "id": "2",
+        "name": "testname2",
+        "date": "testdate2"
+      }
+    },
+    "invoiced_paid": {
+      "properties": {
+        "id": "3",
+        "name": "testname2",
+        "date": "testdate2"
+      }
+    },
+    "order_complete": {
+      "properties": {
+        "id": "4",
+        "name": "testname2",
+        "date": "testdate2"
+      }
+    }
+  }
+}

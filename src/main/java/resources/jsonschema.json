@@ -1,0 +1,38 @@
+{
+  "Event": {
+    "name": "order_received",
+    "APropertie": [
+      {
+        "name": "",
+        "date": ""
+      }
+    ]
+  },
+  "Event": {
+    "name": "product_produced",
+    "APropertie": [
+      {
+        "name2": "",
+        "date2": ""
+      }
+    ]
+  },
+  "Event": {
+    "name": "invoice_paid",
+    "APropertie": [
+      {
+        "name2": "",
+        "date2": ""
+      }
+    ]
+  },
+  "Event": {
+    "name": "order_complete",
+    "APropertie": [
+      {
+        "name2": "",
+        "date2": ""
+      }
+    ]
+  }
+}
