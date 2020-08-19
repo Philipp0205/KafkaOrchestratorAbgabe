@@ -1,4 +1,10 @@
 # KafkaOrchestratorAbgabe
+Die finale Abgabe des Projekts begleitend zur Bachelorarbeit "Entwicklung einer ereignisorientierten Architektur für BPM-Szenarien auf Basis von Apache Kafka"
+
+## Übersicht über das Projekt
+
+- [UML-Klassendiagramm](classd.png)
+- [Übersicht der Komponenten](componentsd.png)
 
 ## Dependencies
 
